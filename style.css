@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFF8EA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ortakısım_anabaşlık {
+    text-align: center;
+}
+
+.ortakısım_anabaşlık h1 {
+    color: #594545;
+}
+
+.ortakısım_metinler h2 {
+    margin-left: 75px;
+    border-left: solid 2px #473737;
+    padding-left: 5px;
+    color: #594545;
+}
+
+.ortakısım_metinler p {
+    margin-left: 75px;
+    font-size: 19px;
+}
+
+.ortakısım_metinler img {
+    margin-left: 175px;
+    border: solid 2px #9E7676;
+    border-radius: 3px;
+}
+
+.ortakısım_metinler h3 {
+    margin-left: 80px;
+    margin-bottom: 5px;
+    color: #594545;
+}
+
+.ortakısım_metinler h3 span {
+    color: #473737;
+}
+
+.ortakısım_metinler {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#küçültülecek1 {
+    width: 525px;
+}
+
+#küçültülecek2 {
+    width: 355px;
+    margin-left: 20px;
+}
